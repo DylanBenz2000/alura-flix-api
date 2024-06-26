@@ -2,15 +2,18 @@
     "categorias": [
         {
             "id": "front end",
-            "nombre": "Front End"
+            "nombre": "Front End",
+            "color": "#007bff"
         },
         {
             "id": "back end",
-            "nombre": "Back End"
+            "nombre": "Back End",
+            "color": "#28a745"
         },
         {
             "id": "innovación y gestión",
-            "nombre": "Innovación y Gestión"
+            "nombre": "Innovación y Gestión",
+            "color": "#ffc107"
         }
     ],
     "posts": [
@@ -48,7 +51,7 @@
             "id": 6,
             "foto" : "https://i.ytimg.com/vi/Z024LSCMqFk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3xjx2-sGxZ00NSrSkEswD_8mPSA",
             "url": "https://www.youtube.com/embed/Z024LSCMqFk",
-            "categoria": "front end"
+            "categoria": "back end"
         }
     ]
 }
